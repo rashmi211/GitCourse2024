@@ -1,2 +1,0 @@
-Username =Rashmi
-Password = Sahiba@123
